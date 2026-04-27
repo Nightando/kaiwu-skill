@@ -1,6 +1,6 @@
 # Kaiwu · Industry Technology Distillation
 
-> "Your next technical advisor doesn't have to be a colleague"
+> "The tech expert you want, at your command"
 
 Tiangong Kaiwu (天工开物) - Distilling industry technology frameworks. Let the core technical logic of AI video, semiconductors, new energy, biomedicine and other industries work for you.
 
